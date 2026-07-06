@@ -1,5 +1,5 @@
 {
-  "packages/catppuccin-vsc": "3.19.0",
-  "packages/catppuccin-vsc-pack": "1.0.2",
-  "packages/catppuccin-vscode": "3.19.0"
+  "packages/catppuccin-vsc": "3.20.0",
+  "packages/catppuccin-vsc-pack": "1.0.0",
+  "packages/catppuccin-vscode": "3.20.0"
 }
